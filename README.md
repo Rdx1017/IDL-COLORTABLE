@@ -1,6 +1,6 @@
 # IDL-COLORTABLE
 
-I have confused the pro 'loadct' cannot work in a right way for some days until i saw this help doc.
+I have confused the pro 'loadct' cannot work in a right way for some days until i saw this doc.
 
 When the case ---DEVICE, DECOMPOSED=0
 
