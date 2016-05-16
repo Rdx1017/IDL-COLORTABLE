@@ -7,8 +7,6 @@ When the case ---DEVICE, DECOMPOSED=0
       Set this keyword to 0 to cause color values to be interpreted as indices into a color lookup table.
       
       Such as :
-      
-
           DEVICE, DECOMPOSED=0
           LOADCT, 7
           PLOT, INDGEN(10), COLOR=180
